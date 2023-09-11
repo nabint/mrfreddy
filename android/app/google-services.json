@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "808231147377",
+    "project_id": "mrfreddy-2a033",
+    "storage_bucket": "mrfreddy-2a033.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808231147377:android:d4ba13aac6adbb16f608d0",
+        "android_client_info": {
+          "package_name": "com.example.mrfreddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808231147377-v4lh4194n7p2ga7u0uv3f06a0t6jps2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW0Ss4d8FL7end3xBbYj0Qh_H4XsDxhHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808231147377-v4lh4194n7p2ga7u0uv3f06a0t6jps2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
